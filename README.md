@@ -1,5 +1,5 @@
 <p align="center">
- <img alt="shows personal logo" src="./images/personal_logo.jpeg"  width="200">
+ <img alt="shows personal logo" src="images/personal_logo.jpeg"  width="200">
 </p>
 
 ---
