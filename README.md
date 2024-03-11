@@ -4,9 +4,9 @@
 
 ---
 
-### Hi there 👋.
+### Hi 👋.
 
-yes, I know my name is everywhere, but hey, It doesn't hurt to write it out once again. My name is Christianah and I am a self-taught web developer. I don't like talking about myself, but here it goes. :eyes:
+ My name is Christianah and I am a Web Developer. :eyes:
 
 ```
     const christianah = {
