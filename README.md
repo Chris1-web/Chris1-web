@@ -10,7 +10,7 @@ yes, I know my name is everywhere, but hey, It doesn't hurt to write it out once
 
 ```
     const christianah = {
-        current_goal: "get a job in tech",
+        current_goal: "learn learn learn",
         hobbies: ["listening to music", "reading", "meeting new people"],
         location: Surrey, Canada,
         school: Kwantlen Polytechnic University,
