@@ -12,15 +12,14 @@
     const christianah = {
         current_goal: "learn learn learn",
         hobbies: ["listening to music", "reading", "meeting new people"],
-        location: Surrey, Canada,
+        location: British Columbia, Canada,
         school: Kwantlen Polytechnic University,
         major: Information Technology,
         interest: [
             "Web Developement",
             "Network Administration and Security",
             "Data Science",
-            "Any sorts of Programming",
-            "Problem Solving",
+            "Game Development",
         ],
     }
 ```
